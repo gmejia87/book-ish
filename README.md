@@ -4,9 +4,19 @@
 
 placeholder
 
+## Screenshot
+
+placeholder
+
+## Deployed Website
+
+placeholder
+
 ## Table of contents
 
 - [Description](#description)
+- [Screenshot](#screenshot)
+- [Deployed Website](#deployed-website)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Contributors](#contributors)
