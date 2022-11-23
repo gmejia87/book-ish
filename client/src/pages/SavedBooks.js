@@ -17,7 +17,6 @@ import { useQuery, useMutation } from "@apollo/client";
 
 const SavedBooks = () => {
   const { loading, data } = useQuery(GET_ME);
-  const [removeBook, { error }] = useMutation(REMOVE_BOOK);
   const userData = data?.me || {};
   // const [userData, setUserData] = useState({});
 
@@ -46,6 +45,8 @@ const SavedBooks = () => {
       console.error(err);
     }
   };
+
+  const [removeBook, { error }] = useMutation(REMOVE_BOOK);
 
   // if data isn't here yet, say so
   if (loading) {
