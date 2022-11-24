@@ -6,11 +6,12 @@ placeholder
 
 ## Screenshot
 
-placeholder
+![Book-ish screenshot](https://user-images.githubusercontent.com/108241017/203697573-989a4d53-d1e0-40aa-ad9b-d0c45d7b4f3e.png)
+
 
 ## Deployed Website
 
-placeholder
+ Click [Book-ish](https://bookish-2022.herokuapp.com/) to visit deployed site.
 
 ## Table of contents
 
