@@ -2,16 +2,15 @@
 
 ## Description
 
-placeholder
+A fully functioning Google Books API search engine built with a RESTful API, which was refactored to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. The site allow users to save book searches to their user profile.
 
 ## Screenshot
 
 ![Book-ish screenshot](https://user-images.githubusercontent.com/108241017/203697573-989a4d53-d1e0-40aa-ad9b-d0c45d7b4f3e.png)
 
-
 ## Deployed Website
 
- Click [Book-ish](https://bookish-2022.herokuapp.com/) to visit deployed site.
+Click [Book-ish](https://bookish-2022.herokuapp.com/) to visit deployed site.
 
 ## Table of contents
 
